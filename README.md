@@ -5,7 +5,7 @@
 
 
 Fala galera!
-Meu nome é Marcelo Abbadia, Sou engenheiro de produção formado desde 2012, e agora estou em transição de carreira depois dos 40 anos, isso mesmo!
+Meu nome é Marcelo Abbadia, Sou graduando de Pós-graduação de Desenvolvimento e Tecnologias Digitais, sou formando em engenheiro de produção desde 2012, e agora estou em transição de carreira.
 Sou apaixonado por gatos, drones e tecnologia!
 Em breve vou subir uns projetos bem legais para compartilhar!
 
