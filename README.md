@@ -5,11 +5,11 @@
 
 
 Fala galera!
-Meu nome é Marcelo Abbadia, Sou pós-graduando de Desenvolvimento e Tecnologias Digitais, sou formando em engenheiro de produção desde 2012, e agora estou em transição de carreira.
+Meu nome é Marcelo Abbadia, Sou pós-graduando de Desenvolvimento e Tecnologias Digitais, sou formando em engenheiro de produção, e estou em transição de carreira.
 Sou apaixonado por gatos, drones e tecnologia!
-Em breve vou subir uns projetos bem legais para compartilhar!
 
-Hey guys! My name is Marcelo Abbadia, I'm a postgraduate student in Development and Digital Technologies, I've been studying production engineering since 2012, and now I'm in a career transition. I'm passionate about cats, drones and technology! Soon I will upload some really cool projects to share!
+
+Hey guys! My name is Marcelo Abbadia, I'm a postgraduate student in Development and Digital Technologies, I've been studying production engineering, and I'm in a career transition. I'm passionate about cats, drones and technology! 
 
 ## Meus principais S.O`s
 
