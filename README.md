@@ -3,12 +3,12 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-abbadia/)
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo.abbadia@gmail.com)
 
-
 <p>Fala galera, bem vindo(a) ao meu GitHub!</p>
 <p>Sou Marcelo Abbadia, pós-graduando em Desenvolvimento e Tecnologias Digitais. Tenho uma formação em Engenharia de Produção e estou atualmente em meio a uma empolgante transição de carreira. Minha paixão se divide entre gatos, a fascinante área dos drones e a empolgante esfera da tecnologia!</p>
 <br/>
 <p>Hey folks, welcome to my GitHub!</p>
 <p>I'm Marcelo Abbadia, a postgraduate student in Digital Development and Technologies. I have a background in Industrial Engineering and I'm currently in the middle of an exciting career transition. My passion is split between cats, the fascinating world of drones, and the thrilling realm of technology!</p>
+<br/>
 
 ## Meus principais S.O`s
 
