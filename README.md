@@ -4,12 +4,11 @@
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo.abbadia@gmail.com)
 
 
-Fala galera!
-Meu nome é Marcelo Abbadia, Sou pós-graduando de Desenvolvimento e Tecnologias Digitais, sou formando em engenheiro de produção, e estou em transição de carreira.
-Sou apaixonado por gatos, drones e tecnologia!
-
-
-Hey guys! My name is Marcelo Abbadia, I'm a postgraduate student in Development and Digital Technologies, I've been studying production engineering, and I'm in a career transition. I'm passionate about cats, drones and technology! 
+<p>Fala galera, bem vindo(a) ao meu GitHub!</p>
+<p>Sou Marcelo Abbadia, pós-graduando em Desenvolvimento e Tecnologias Digitais. Tenho uma formação em Engenharia de Produção e estou atualmente em meio a uma empolgante transição de carreira. Minha paixão se divide entre gatos, a fascinante área dos drones e a empolgante esfera da tecnologia!</p>
+<br/>
+<p>Hey folks, welcome to my GitHub!</p>
+<p>I'm Marcelo Abbadia, a postgraduate student in Digital Development and Technologies. I have a background in Industrial Engineering and I'm currently in the middle of an exciting career transition. My passion is split between cats, the fascinating world of drones, and the thrilling realm of technology!</p>
 
 ## Meus principais S.O`s
 
