@@ -4,14 +4,11 @@
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo.abbadia@gmail.com)
 
 
-<p>👋 Fala galera, bem-vindo(a) ao meu GitHub!</p>
-<p> Sou Desenvolvedor Back-End, e estou em busca de novas oportunidades e desafios na minha área de atuação. Estudo Análise e Desenvolvimento de sistemas, onde está sendo a minha segunda graduação, pois já sou formado em Engenharia de Produção. Minha trajetória combina gerenciamento de processos e desenvolvimento, tornando-me altamente flexível, adaptável e sociável, com um forte espírito de equipe e resiliência. Sinto uma imensa satisfação em ver projetos se concretizando e tenho uma paixão pelo aprendizado contínuo.</p>
+Consolidando experiências de Engenharia de Processos com a Área de Desenvolvimento.
 
 🌐 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat&logo=portfolio&logoColor=white)](https://marceloabbadia.vercel.app/)
 
 
-<p>👋 Hello everyone, welcome to my GitHub!</p>
-<p> I am a Back-End Developer, actively seeking new opportunities and challenges in my field. I am currently studying Systems Analysis and Development, which marks my second degree, as I am already a graduate in Industrial Engineering. My career path combines process management and development, making me highly versatile, adaptable, and sociable, with a strong team spirit and resilience. I find immense satisfaction in seeing projects come to fruition, and I have a passion for continuous learning.</p>
 
 <br/>
 
